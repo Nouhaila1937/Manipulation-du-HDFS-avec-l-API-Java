@@ -25,7 +25,8 @@ public class App {
         BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(fos));
 
         bw.write("Bonjour\n");
-        bw.write("Je suis Nouhaila Lahsaoui");
+        bw.write("Je suis Nouhaila Lahsaoui \n");
+        bw.write ("fin file");
         bw.close();
         fs.close();
     }
