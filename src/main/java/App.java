@@ -26,7 +26,9 @@ public class App {
 
         bw.write("Bonjour\n");
         bw.write("Je suis Nouhaila Lahsaoui \n");
-        bw.write ("fin file");
+        bw.write ("fin file \n");
+        bw.write ("update \n");
+        bw.write ("update 2\n");
         bw.close();
         fs.close();
     }
