@@ -77,7 +77,7 @@ lorsqu'on démarre la commande de mvn compile on aura un dossier target ou il co
 
 Le fichier JAR généré doit être placé dans le dossier `jars`.
 
-![Résultat](\src\main\resources\images/img.png)
+![Résultat](src/main/resources/images/img.png)
 
 ### 2. Configuration de `pom.xml`
 
