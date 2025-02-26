@@ -77,7 +77,7 @@ lorsqu'on démarre la commande de mvn compile on aura un dossier target ou il co
 
 Le fichier JAR généré doit être placé dans le dossier `jars`.
 
-![Résultat](src/main/resources/images/img.png)
+
 
 ### 2. Configuration de `pom.xml`
 
@@ -104,6 +104,7 @@ Pour voir les fichiers stockés dans HDFS, accédez à l'interface Web Hadoop :
 
 [http://localhost:9870/explorer.html#/](http://localhost:9870/explorer.html#/)
 
-## 📎 Ressources
+## 📎 Résultat
 
-Pour plus d'informations, consultez le dépôt GitHub : [Manipulation-du-HDFS-avec-l-API-Java](https://github.com/Nouhaila1937/Manipulation-du-HDFS-avec-l-API-Java/)
+![Command et affichage de contexte ](src/main/resources/images/img.png)
+![Résultat](src/main/resources/images/img_1.png)
